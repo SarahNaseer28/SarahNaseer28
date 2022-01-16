@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Sarah Aymen
+- 🌱 I’m currently learning Ai and ML
